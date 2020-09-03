@@ -1,0 +1,17 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "Mock Up REST API zero configuration using json-server and faker js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "restuwahyu13",
+  "license": "MIT",
+  "devDependencies": {
+    "faker": "^5.1.0",
+    "json-server": "^0.16.1",
+    "nodemon": "^2.0.4"
+  }
+}
