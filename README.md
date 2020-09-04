@@ -1,6 +1,6 @@
 ### Zero Mockup Configuration REST API
 
-**Berikut** adalah bagaimana cara membuat sebuah mockup `Rest API` dengan sangat mudah yaitu dengan menggunakan [Json Server](https://www.npmjs.com/package/json-server) dan [FakerJs](https://www.npmjs.com/package/faker), untuk keperluan testing  **Single Page Application (SPA)** menggunakan **Framework** favorite kesayangan anda, anda tidak perlu terhubung ke database manapun diakrenakan db.json akan menjadi route dan database anda secara otimatis,  untuk info lebih lanjut cara penggunaannya silahkan cek dokumentasinya.
+**Berikut** adalah bagaimana cara membuat sebuah mockup `Rest API` dengan sangat mudah yaitu dengan menggunakan [Json Server](https://www.npmjs.com/package/json-server) dan [FakerJs](https://www.npmjs.com/package/faker), untuk keperluan testing  **Single Page Application (SPA)** menggunakan **Framework** favorite kesayangan anda, anda tidak perlu terhubung ke database manapun diakrenakan db.json akan menjadi route dan database anda secara otomatis, untuk info lebih lanjut cara penggunaannya silahkan cek dokumentasinya.
 
 #### Cara Menjalankan
 + install semua module terlebih dahulu dengan mengetikan **npm install** atau **yarn add** pada **terminal**
